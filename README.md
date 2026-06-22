@@ -240,6 +240,7 @@ This repository is a curated, community-maintained collection of **230+ real-wor
 ---
 
 ## By Task Type
+- [ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) — Spec-driven delivery framework for product managers — 4 delivery tiers, 0D triage, prototype testability, AI runtime governance, 5 domain modules
 
 *[Full details →](use-cases/by-task/)*
 
